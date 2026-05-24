@@ -22,6 +22,9 @@ A full-stack DBMS project built using HTML, CSS, JavaScript, and SQL for managin
 - sql.js (WebAssembly SQLite)
 - Vercel Deployment
 
+## ER diagram
+![ER diagram](er-diagram.jpeg)
+
 ## Live Demo
 https://smart-inventory-dbms.vercel.app/
 
